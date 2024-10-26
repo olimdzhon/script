@@ -1,0 +1,14 @@
+{
+  "name": "script",
+  "version": "0.0.1",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "node ./script.js 1.xlsx"
+  },
+  "author": "Olimjon Sadykov",
+  "license": "MIT",
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  }
+}
