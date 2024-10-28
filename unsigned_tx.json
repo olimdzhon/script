@@ -12,7 +12,7 @@
       "amount": [
         {
           "denom": "udgn",
-          "amount": "25000"
+          "amount": "50000"
         }
       ],
       "gas_limit": "3800000",
