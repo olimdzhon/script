@@ -12,10 +12,10 @@
       "amount": [
         {
           "denom": "udgn",
-          "amount": "1000"
+          "amount": "25000"
         }
       ],
-      "gas_limit": "100000",
+      "gas_limit": "3800000",
       "payer": "",
       "granter": ""
     },
