@@ -4,7 +4,7 @@
   const workbook = new excel.Workbook();
   // use readFile for testing purpose
   // await workbook.xlsx.load(objDescExcel.buffer);
-  await workbook.xlsx.readFile(process.argv[2]);
+  await workbook.xlsx.readFile("./1.xlsx");
   let jsonData = [];
   workbook.worksheets.forEach(function (sheet) {
     // read first row as data keys
@@ -27,11 +27,9 @@
   for (i = 0; i < jsonData.length; i++) {
     txData.push({
       "@type": "/cosmos.bank.v1beta1.MsgSend",
-      from_address: "dungeon1umkse9yx2w9aw5qam0gffatfht3yerll7sl9k9",
+      from_address: "cosmos140kq2fts8ed9m73a6dch7sgdap6hnp2pqqasx9",
       to_address: jsonData[i].to_address,
-      amount: [
-        { denom: "udgn", amount: (jsonData[i].amount * 1000000).toString() },
-      ],
+      amount: [{ denom: "uatom", amount: jsonData[i].amount }],
     });
   }
 
