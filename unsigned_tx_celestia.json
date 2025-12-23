@@ -1,0 +1,212 @@
+{
+  "body": {
+    "messages": [
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia1qvcy2gqxrdgnnypgsjcr2xz57lf4cs6nm6j2nl",
+        "amount": [{ "denom": "utia", "amount": "2500000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia1p34krywk2xt67yz0ju4c5dzz5u6lurs08y2xuy",
+        "amount": [{ "denom": "utia", "amount": "2500000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia1pa56a9fg5jhxrduru275vn2y7fpkxmx6up9jhw",
+        "amount": [{ "denom": "utia", "amount": "2500000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia1zwtv7pplzh7m3t4m2zel8c0q78qsyptvqpjctt",
+        "amount": [{ "denom": "utia", "amount": "2500000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia1rhgsg2qedccgwrpws524tagm4v7rlpdrx9kz6h",
+        "amount": [{ "denom": "utia", "amount": "15000000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia1yyvdwarlwt4sz6qslzs5sx5jlzu6guaj783tlx",
+        "amount": [{ "denom": "utia", "amount": "2500000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia19g9flltdr2ahajrkefdqxc34h5uc532d2v9pc9",
+        "amount": [{ "denom": "utia", "amount": "2500000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia188q0e9vyq60edst5drr03sxahlzre6yhcnqqh7",
+        "amount": [{ "denom": "utia", "amount": "2500000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia18gd7nsv2qrx9rv8n0gh37l0x8qmwnrhaj0wzrf",
+        "amount": [{ "denom": "utia", "amount": "2500000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia18nf84jgwkqypaplz45xyf3yegpu4vvhzvrgllq",
+        "amount": [{ "denom": "utia", "amount": "2500000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia1gfs3scxqhne0jg5eft55cplj4rlwfu458s7jc3",
+        "amount": [{ "denom": "utia", "amount": "2500000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia1vkngvnelw4tgahyn20sr0kvk9jq8wrfekx6ank",
+        "amount": [{ "denom": "utia", "amount": "2500000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia1duls39pg7uqze7vpz65n22re72nycvmrgkg4kr",
+        "amount": [{ "denom": "utia", "amount": "6000000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia1wgdegtthkx0n5fmyt2l2xn9jchywffac8q9eea",
+        "amount": [{ "denom": "utia", "amount": "2500000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia10guvn4243qg2l8ey8gy9zwttz6v23232f0rvcr",
+        "amount": [{ "denom": "utia", "amount": "15000000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia1s6fd9nyr2n4dgcwa8elkq4j7fv0s5tn44ne59f",
+        "amount": [{ "denom": "utia", "amount": "2500000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia1smq0qz39r8e8awga8zaxlquftkzxldr8asa0ad",
+        "amount": [{ "denom": "utia", "amount": "2500000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia13zzlsjnauafxz764nvj6mgagrkt5vke3pcap23",
+        "amount": [{ "denom": "utia", "amount": "2500000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia13hapz35dfzuf9ult9vw7qdsag83r99qzu3uczw",
+        "amount": [{ "denom": "utia", "amount": "2500000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia1jgpjmj0wlr34krplzhh7dywarfmkztuc6gz5wk",
+        "amount": [{ "denom": "utia", "amount": "2500000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia1jtustv4ghy997d6catge3mgklszkvve6rakrj0",
+        "amount": [{ "denom": "utia", "amount": "2500000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia1nnh4thxglkdcp0h2kr7t53rqakrmlwvyemsgc0",
+        "amount": [{ "denom": "utia", "amount": "2500000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia1nnlvg9fcs7lfsfxgeaf69hg604nxag0ahhuyu0",
+        "amount": [{ "denom": "utia", "amount": "2500000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia1kw6mw70wafdxgp2n8s4lscx04du8ka6dvul6jy",
+        "amount": [{ "denom": "utia", "amount": "6000000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia1m20wyugxnse56q2lfmm9txyk2fx39s6fl9jxtk",
+        "amount": [{ "denom": "utia", "amount": "2500000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia1mu26reayvd7vwknxugmx3vw8fqmvladjcfhtv2",
+        "amount": [{ "denom": "utia", "amount": "2500000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia1uah45eeda8k5qwqdapslalxu8kgf9deqfuakr5",
+        "amount": [{ "denom": "utia", "amount": "2500000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia1aqcxtsz2u66fq92et6txlwywtetg467j8ggrp0",
+        "amount": [{ "denom": "utia", "amount": "2500000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia1a3858f250ve4t6rp9ef2svpr7sj20aax349dgr",
+        "amount": [{ "denom": "utia", "amount": "2500000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia177n4ptnw3utwjlrk8n28t4zf00afm379ej5k60",
+        "amount": [{ "denom": "utia", "amount": "2500000" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+        "to_address": "celestia177h5g6har2ne9rhn5ekwlpgv7dtkjxp2765yfs",
+        "amount": [{ "denom": "utia", "amount": "2500000" }]
+      }
+    ],
+    "memo": "Chiter Stake Drop",
+    "timeout_height": "0",
+    "extension_options": [],
+    "non_critical_extension_options": []
+  },
+  "auth_info": {
+    "signer_infos": [],
+    "fee": {
+      "amount": [
+        {
+          "denom": "utia",
+          "amount": "20000"
+        }
+      ],
+      "gas_limit": "1000000",
+      "payer": "",
+      "granter": ""
+    },
+    "tip": null
+  },
+  "signatures": []
+}

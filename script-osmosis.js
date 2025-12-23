@@ -27,9 +27,9 @@
   for (i = 0; i < jsonData.length; i++) {
     txData.push({
       "@type": "/cosmos.bank.v1beta1.MsgSend",
-      from_address: "cosmos140kq2fts8ed9m73a6dch7sgdap6hnp2pqqasx9",
+      from_address: "osmo1lmxrexaxuc7ealq4wqdgzrczajhhrenrhgl9q6",
       to_address: jsonData[i].to_address,
-      amount: [{ denom: "uatom", amount: jsonData[i].amount.toString() }],
+      amount: [{ denom: "uosmo", amount: jsonData[i].amount.toString() }],
     });
   }
 
