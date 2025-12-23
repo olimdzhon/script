@@ -1,746 +1,470 @@
 [
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1q2833t82zthataz0v6zracejyu7xfqh7mu2sw4",
-    "amount": [{ "denom": "uatone", "amount": "118436" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1qz730hrlwfz5mt4u5xzxa98dh34yfnggtrpwf5",
+    "amount": [{ "denom": "utia", "amount": "28390" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1qvcy2gqxrdgnnypgsjcr2xz57lf4cs6nyslal2",
-    "amount": [{ "denom": "uatone", "amount": "4969010" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1qvcy2gqxrdgnnypgsjcr2xz57lf4cs6nm6j2nl",
+    "amount": [{ "denom": "utia", "amount": "271661" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1qs4eqtc0f28943s9q8jzcncr5pkmcgkf07lenq",
-    "amount": [{ "denom": "uatone", "amount": "116947" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1qe6q4wwjzse3rkv07czlevhngxn56susv386gz",
+    "amount": [{ "denom": "utia", "amount": "310900" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1q648z887yenz2gxkq4msa252nvp427tfsvh8hu",
-    "amount": [{ "denom": "uatone", "amount": "627844" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1pduj08yt5w8thfp50lcvwhffrahpfpj5q06u4c",
+    "amount": [{ "denom": "utia", "amount": "31541" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1pz0gys67zv6dl0g69dree3yees48plzun5xcek",
-    "amount": [{ "denom": "uatone", "amount": "201349" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1p34krywk2xt67yz0ju4c5dzz5u6lurs08y2xuy",
+    "amount": [{ "denom": "utia", "amount": "28606" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1zgs5nnwhpxg4sjyw7xerm4humluxua90ejay73",
-    "amount": [{ "denom": "uatone", "amount": "821833" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1pjmdtwxqevyr9u38ap4qchfejgyj93da0xjwgt",
+    "amount": [{ "denom": "utia", "amount": "15990" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1zsv6cvpd9y86hhxzatpgzu6ymxdeuc5njypdru",
-    "amount": [{ "denom": "uatone", "amount": "184913" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1pa56a9fg5jhxrduru275vn2y7fpkxmx6up9jhw",
+    "amount": [{ "denom": "utia", "amount": "66565" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1rxwnxskx7w9jjecfzjve35juw3qxughs9nwku7",
-    "amount": [{ "denom": "uatone", "amount": "452008" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1zvn0400rgpyhvrse936p25mfkrnnr8elkjdzzt",
+    "amount": [{ "denom": "utia", "amount": "16562" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1rf0s9p99t3m0vnwcf0jy98hwedlrul90tsvp4s",
-    "amount": [{ "denom": "uatone", "amount": "741710" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1zwtv7pplzh7m3t4m2zel8c0q78qsyptvqpjctt",
+    "amount": [{ "denom": "utia", "amount": "64788" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1r2nujddqfxvw3nuvdfgsnskxgrdhpfz76a0msu",
-    "amount": [{ "denom": "uatone", "amount": "419135" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1z3wu5uh60kmczccpxxlk469ue4muh63h8d9xte",
+    "amount": [{ "denom": "utia", "amount": "15514" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1rta9aa5dzsr3kvcf2x8x8zeycd0yw4stqw7v2y",
-    "amount": [{ "denom": "uatone", "amount": "410902" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1zmruurfzccvmdgcuw2rv5rla6etk36k62a6w3m",
+    "amount": [{ "denom": "utia", "amount": "16274" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1rhyz30vg0c6ed69rmz43h35wn92ucksrclvndw",
-    "amount": [{ "denom": "uatone", "amount": "906446" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1r3sglnjc34q2l0nf2rl2dh6slum564mmk5249m",
+    "amount": [{ "denom": "utia", "amount": "32358" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1rhgsg2qedccgwrpws524tagm4v7rlpdre0m4kz",
-    "amount": [{ "denom": "uatone", "amount": "11594649" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1r4rcrlggecyhajgfvxqlu5pdnma64h6hudyj6s",
+    "amount": [{ "denom": "utia", "amount": "15000000" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1yyvdwarlwt4sz6qslzs5sx5jlzu6guajpduunn",
-    "amount": [{ "denom": "uatone", "amount": "256034" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1rhgsg2qedccgwrpws524tagm4v7rlpdrx9kz6h",
+    "amount": [{ "denom": "utia", "amount": "15000000" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1ysthp74n2wxt4flmzyxrhza8rvxzr9mclfes0v",
-    "amount": [{ "denom": "uatone", "amount": "205465" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1yp542l3cwq8j0m9zkhcv8exrz2cp7l9quwrtys",
+    "amount": [{ "denom": "utia", "amount": "16620" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1ykyk43nxapm48n60ft0sr8ndrg8deu9p2d5ckt",
-    "amount": [{ "denom": "uatone", "amount": "822777" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1yyvdwarlwt4sz6qslzs5sx5jlzu6guaj783tlx",
+    "amount": [{ "denom": "utia", "amount": "23585" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone19g9flltdr2ahajrkefdqxc34h5uc532d4xgk5s",
-    "amount": [{ "denom": "uatone", "amount": "308598" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1ymwgg85shgthy4gsp7qf59jpf0pz4c3rz3aqqm",
+    "amount": [{ "denom": "utia", "amount": "41769" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1923utg7e27z6cztq7ky89hx5n5k0awkhfv0l50",
-    "amount": [{ "denom": "uatone", "amount": "143821" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia19g9flltdr2ahajrkefdqxc34h5uc532d2v9pc9",
+    "amount": [{ "denom": "utia", "amount": "19080" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone19dej9nex9sj3424eernwjs83pw75rt3k25hv90",
-    "amount": [{ "denom": "uatone", "amount": "92456" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1xzq3z62dvsrlkpmsw8ju4unh95sr7svz8s7rjd",
+    "amount": [{ "denom": "utia", "amount": "31489" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone193d2qsuk25e9mx0quan2msl2y9fqtt0gw6vxe9",
-    "amount": [{ "denom": "uatone", "amount": "164367" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1xkhs27xj8tjd74lyfhcgw4g03krnpn9wqz6mh7",
+    "amount": [{ "denom": "utia", "amount": "42435" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone19jhlpyjx3p4kqh347323azjuhnnew95r0a5z2u",
-    "amount": [{ "denom": "uatone", "amount": "92045" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia188q0e9vyq60edst5drr03sxahlzre6yhcnqqh7",
+    "amount": [{ "denom": "utia", "amount": "51412" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone18gd7nsv2qrx9rv8n0gh37l0x8qmwnrhad9r40u",
-    "amount": [{ "denom": "uatone", "amount": "707599" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia18gd7nsv2qrx9rv8n0gh37l0x8qmwnrhaj0wzrf",
+    "amount": [{ "denom": "utia", "amount": "18604" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone185fkw70ntyc0vlvrf30grsxurfw2d7cplyp8ep",
-    "amount": [{ "denom": "uatone", "amount": "123614" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia18nf84jgwkqypaplz45xyf3yegpu4vvhzvrgllq",
+    "amount": [{ "denom": "utia", "amount": "15529" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1850rdjq4sf488sad4qsj64sj2s8h53z0hhu7q7",
-    "amount": [{ "denom": "uatone", "amount": "410901" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia184mdhx7jq5al582e6t3ssdev08ccghk5lm6awh",
+    "amount": [{ "denom": "utia", "amount": "16374" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone18crvw4qkw8ju6s9jqyw6w3wx5ghh3unvd6zgw5",
-    "amount": [{ "denom": "uatone", "amount": "103467" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1gfs3scxqhne0jg5eft55cplj4rlwfu458s7jc3",
+    "amount": [{ "denom": "utia", "amount": "153750" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone18ank35aua8ftetpmvcsxwdqy4pheltee3wzc2f",
-    "amount": [{ "denom": "uatone", "amount": "89580" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia12sxx3f0knswnxh763kpddwaygt8qfy0jke96gl",
+    "amount": [{ "denom": "utia", "amount": "33395" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1gzwmgc096jgunp47tnn7j7ulzgc97ce8s82dzw",
-    "amount": [{ "denom": "uatone", "amount": "558310" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1tgyqvzknt3l0qv6p98guu859mv8htpz6nmqvz0",
+    "amount": [{ "denom": "utia", "amount": "30765" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1gd6twrfw7p04797dznh0u98q9ykc7d240qac6a",
-    "amount": [{ "denom": "uatone", "amount": "83411" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1vkngvnelw4tgahyn20sr0kvk9jq8wrfekx6ank",
+    "amount": [{ "denom": "utia", "amount": "55092" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1g37mcad2p7w4d8zes77mly0tawrmhvamjkdp22",
-    "amount": [{ "denom": "uatone", "amount": "410999" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1dqtfsays94pktsj2dachaju37v2jxpjsgz2acz",
+    "amount": [{ "denom": "utia", "amount": "463034" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1gn6w54uge5drhx0gskdgva4372d8guxh0wyz6n",
-    "amount": [{ "denom": "uatone", "amount": "182858" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1duls39pg7uqze7vpz65n22re72nycvmrgkg4kr",
+    "amount": [{ "denom": "utia", "amount": "416127" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1gnasfq4qq9kuwphp7ytq50pg6f4pzqs4gqu73d",
-    "amount": [{ "denom": "uatone", "amount": "188801" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1wgdegtthkx0n5fmyt2l2xn9jchywffac8q9eea",
+    "amount": [{ "denom": "utia", "amount": "15541" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1frwewwrswegyuxsz800zeaqesq5k678xe5hd9p",
-    "amount": [{ "denom": "uatone", "amount": "234592" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1w2z74ln6kp08xac0smp2al35d7s7ju2rn5fuyj",
+    "amount": [{ "denom": "utia", "amount": "17584" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1f9dge7nrtrlxg24qekrwk24nxzmzlappuw8q39",
-    "amount": [{ "denom": "uatone", "amount": "91221" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1wdnc6mfpcfs8md2cvm3gyfdzw8v3mcx8p2s6ux",
+    "amount": [{ "denom": "utia", "amount": "19349" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1f8qxs3n4pstp3ddfzt7773w9wl3c6c04nj7r0d",
-    "amount": [{ "denom": "uatone", "amount": "123614" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1wwf8fsyr3xj8a84k5qkf0tkmvq8gmhg3ks8fdm",
+    "amount": [{ "denom": "utia", "amount": "23724" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1f44qd2yw4f007dqddltptaqyqly9qs05n8edum",
-    "amount": [{ "denom": "uatone", "amount": "90402" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1wj22xy7mahsxldh3pmph6n94xuq20nusukn8mz",
+    "amount": [{ "denom": "utia", "amount": "19988" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1fcygwdcfwdnt8gpuv0rr5j6llnexsw6655j42g",
-    "amount": [{ "denom": "uatone", "amount": "205458" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia10guvn4243qg2l8ey8gy9zwttz6v23232f0rvcr",
+    "amount": [{ "denom": "utia", "amount": "15000000" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1f6w3gudyw02vg7jql2kqyte9us8qa5kxfpkwva",
-    "amount": [{ "denom": "uatone", "amount": "137725" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1s6fd9nyr2n4dgcwa8elkq4j7fv0s5tn44ne59f",
+    "amount": [{ "denom": "utia", "amount": "35363" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1fud5k0utxxjm27je5t72h82tyten72acpns7n3",
-    "amount": [{ "denom": "uatone", "amount": "205458" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1smq0qz39r8e8awga8zaxlquftkzxldr8asa0ad",
+    "amount": [{ "denom": "utia", "amount": "52275" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone12pjgwmk672r98fhjrpxg9xz2j29vmu9r472x4s",
-    "amount": [{ "denom": "uatone", "amount": "400233" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1sltq5xnhhh02zelpphpkqqfy48w7rg47000900",
+    "amount": [{ "denom": "utia", "amount": "54658" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone122xq6xe80jk5zkhul6zzh80n2k69yr2eh34ht4",
-    "amount": [{ "denom": "uatone", "amount": "246550" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia13zzlsjnauafxz764nvj6mgagrkt5vke3pcap23",
+    "amount": [{ "denom": "utia", "amount": "24311" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone12v736nuytn9rjl5dpqtfxzdg40vtlwqqwcx2h8",
-    "amount": [{ "denom": "uatone", "amount": "229483" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia13hapz35dfzuf9ult9vw7qdsag83r99qzu3uczw",
+    "amount": [{ "denom": "utia", "amount": "43624" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone12dz0vh9gk50wsjc7jvefs7l8fafraalc7stqkl",
-    "amount": [{ "denom": "uatone", "amount": "229482" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1jr0e4le4kr7ewtsvujrqzcyjqn9r026sj9g8nz",
+    "amount": [{ "denom": "utia", "amount": "50975" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone124rxmmffm329znr5ww8tats35gjq2jzj3m2f8e",
-    "amount": [{ "denom": "uatone", "amount": "205541" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1j9rgp25pup9gp3rr89vaxu2np8ncw5rnacceck",
+    "amount": [{ "denom": "utia", "amount": "19988" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone12el8k6fz3n80mv2czz6apdxplsnpxznawsllcl",
-    "amount": [{ "denom": "uatone", "amount": "2212992" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1jgpjmj0wlr34krplzhh7dywarfmkztuc6gz5wk",
+    "amount": [{ "denom": "utia", "amount": "84757" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1tyu6854q0vlsqpmvaasr9043cwfrtmu4494s50",
-    "amount": [{ "denom": "uatone", "amount": "82594" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1jttdtq9ah54rawwtsapt225unp8fdped37w4n8",
+    "amount": [{ "denom": "utia", "amount": "116637" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1tk9ecdjc59ek3r3dsqe83026jxvtlr0kst3j2z",
-    "amount": [{ "denom": "uatone", "amount": "123432" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1jtustv4ghy997d6catge3mgklszkvve6rakrj0",
+    "amount": [{ "denom": "utia", "amount": "61543" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1vkngvnelw4tgahyn20sr0kvk9jq8wrfefvh2lr",
-    "amount": [{ "denom": "uatone", "amount": "87037" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1jlu7fqmtfkd7wj3nz53ta7yj4xtvhf4kwldkg2",
+    "amount": [{ "denom": "utia", "amount": "33773" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1dqf5rg4kccq558f29qa02wurmcmrapchm6xkhf",
-    "amount": [{ "denom": "uatone", "amount": "821819" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1nnh4thxglkdcp0h2kr7t53rqakrmlwvyemsgc0",
+    "amount": [{ "denom": "utia", "amount": "24234" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1d93ggvd6t3qnna3w280ax9g6j9jzr69envan9n",
-    "amount": [{ "denom": "uatone", "amount": "92045" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1nnlvg9fcs7lfsfxgeaf69hg604nxag0ahhuyu0",
+    "amount": [{ "denom": "utia", "amount": "23555" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1dxlzv3nym93x72t6d5rtaqzre7skke3nk3nzwg",
-    "amount": [{ "denom": "uatone", "amount": "279881" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1n5jj462cvekx8z0syz8u2gmpf46g2csx75khaw",
+    "amount": [{ "denom": "utia", "amount": "31741" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1d27jtvp26d2ul4lwy6th9mqmwxvp68pje4lzj2",
-    "amount": [{ "denom": "uatone", "amount": "410901" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1n5hmum0fpuswq4nerff9rrwqudlylxxvjfrn4e",
+    "amount": [{ "denom": "utia", "amount": "18744" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1ddg9tjkf0vmd3t2mdqpxk2pkk6zssvduphf7js",
-    "amount": [{ "denom": "uatone", "amount": "184913" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia15scds0jq9crvvphgmnkxuvnycj64xj9lu8hnzg",
+    "amount": [{ "denom": "utia", "amount": "46287" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1dn54g3fpsp853jmux297fpj89uufn3zxgmuqfh",
-    "amount": [{ "denom": "uatone", "amount": "98039" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia157qu9jpq3pasuc9s50tpd4hwu3tm45lrg6nm2q",
+    "amount": [{ "denom": "utia", "amount": "38222" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1dkqem467z8l7vjktx7ldg93r82e056qs0m3skm",
-    "amount": [{ "denom": "uatone", "amount": "205458" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia14a8ecps4lm2admgxdcq007kmgt4l9cxye4jv3w",
+    "amount": [{ "denom": "utia", "amount": "33364" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1de88sp2h3955ktrjgnm0jkhy8dttsgdzmnu3s9",
-    "amount": [{ "denom": "uatone", "amount": "174706" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1kw6mw70wafdxgp2n8s4lscx04du8ka6dvul6jy",
+    "amount": [{ "denom": "utia", "amount": "922743" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1w9gcxhaxj8f0rjlkwwu36e7elj9aqmj3txzhp8",
-    "amount": [{ "denom": "uatone", "amount": "85471" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1ksez8429rjftqa8f9wxxyg4l80ey7cfws3k6mw",
+    "amount": [{ "denom": "utia", "amount": "45027" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1wkep6k06rqh2vls8t5q2jjkdn4z803alu5e235",
-    "amount": [{ "denom": "uatone", "amount": "164454" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1hy4s6pku897sq4s52mwd2wegvgd0llestm3ffm",
+    "amount": [{ "denom": "utia", "amount": "33553" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1w64nk0hmjelradw68twzs8zngk253y3g27s0sr",
-    "amount": [{ "denom": "uatone", "amount": "226004" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1cpxcvc7e6k4c0mxz3vf7w4jd5szd6ynq362h3p",
+    "amount": [{ "denom": "utia", "amount": "20295" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone10yp8ey37pjt4y5cr6nl2dstqjyz9f5k93nqlx2",
-    "amount": [{ "denom": "uatone", "amount": "164856" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1c65g3f5ujul79f4tv39rnx4k3fp0nwvrp3w397",
+    "amount": [{ "denom": "utia", "amount": "355239" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone10gzg69ktz2ku6swm400ghtpfj77u9hg7ua0t55",
-    "amount": [{ "denom": "uatone", "amount": "84751" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1ep7cpq9wa0cuds253ucwywqtl4ewx2y29zksfr",
+    "amount": [{ "denom": "utia", "amount": "15673" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone10guvn4243qg2l8ey8gy9zwttz6v23232k9wm5k",
-    "amount": [{ "denom": "uatone", "amount": "613184" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1ege3jn6j509d7985jdefxtn7mcvngjp8qn9sk9",
+    "amount": [{ "denom": "utia", "amount": "47137" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1sn0gq7jlk5cscurvnsrlxc644p2dkwq56anjm7",
-    "amount": [{ "denom": "uatone", "amount": "21674361" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1ehvppg4y9ar7dvnhjnqgjwxm2vd8yvsxpq6gre",
+    "amount": [{ "denom": "utia", "amount": "30781" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1su0p2tyhph4hv6ud22c057rz3f8gfvrsly8kyy",
-    "amount": [{ "denom": "uatone", "amount": "122065" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia16z62k22z3xpq7x9sdhwums2lcks8wejc02rdw7",
+    "amount": [{ "denom": "utia", "amount": "30838" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone13zzlsjnauafxz764nvj6mgagrkt5vke37jskxy",
-    "amount": [{ "denom": "uatone", "amount": "457006" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia16e8eese68zg9yvsd9f8f4urywq9vt276k09l7l",
+    "amount": [{ "denom": "utia", "amount": "32635" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone130umlsvuey3ss03p9pnmnww4mx3zta4skzath6",
-    "amount": [{ "denom": "uatone", "amount": "410901" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1mfje8fezn9mxc7dxnxzumr9kffhxtrn9e89l97",
+    "amount": [{ "denom": "utia", "amount": "46125" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1jfwp4d5mg93sapd67r4274f8y8tg4xn768d2cz",
-    "amount": [{ "denom": "uatone", "amount": "147301" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1m20wyugxnse56q2lfmm9txyk2fx39s6fl9jxtk",
+    "amount": [{ "denom": "utia", "amount": "15898" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1jtustv4ghy997d6catge3mgklszkvve6uhm576",
-    "amount": [{ "denom": "uatone", "amount": "290148" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1mu26reayvd7vwknxugmx3vw8fqmvladjcfhtv2",
+    "amount": [{ "denom": "utia", "amount": "106157" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1jujullnrumr8mplckscuxzfnzkspfm6lfjncpt",
-    "amount": [{ "denom": "uatone", "amount": "143821" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1mud3fuxt5zw4kfysd9gjrn6fjj5rz9g6z5txff",
+    "amount": [{ "denom": "utia", "amount": "846064" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1npurzcjvq9rd29k29atvxd90732z4lwml7ft4e",
-    "amount": [{ "denom": "uatone", "amount": "410917" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1ux8zlvpsvmvnnrqxm0an2kff2rr7950cwa83v7",
+    "amount": [{ "denom": "utia", "amount": "51245" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1npu9lyaf0ve5hrr30xdc8r57jje98tu5ljgw62",
-    "amount": [{ "denom": "uatone", "amount": "188183" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1ujepumwuauf5dv4jjc686f6xj4u29rtp09yr70",
+    "amount": [{ "denom": "utia", "amount": "24666" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1n9wl97cms52tkhc2j40mmktgew0e08aw6e23j2",
-    "amount": [{ "denom": "uatone", "amount": "85893" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1uah45eeda8k5qwqdapslalxu8kgf9deqfuakr5",
+    "amount": [{ "denom": "utia", "amount": "15831" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1nf5f04rk9t56pzdwve6rhe5gvneq6gvkhscwk7",
-    "amount": [{ "denom": "uatone", "amount": "229391" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1aqcxtsz2u66fq92et6txlwywtetg467j8ggrp0",
+    "amount": [{ "denom": "utia", "amount": "36023" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1n45t2sknp6gjj85f25sazprq7q8kyweqv4lc0n",
-    "amount": [{ "denom": "uatone", "amount": "3090646" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1a2de4qm0ecg338cyqmww3fpv9a7et9fgcnj0uh",
+    "amount": [{ "denom": "utia", "amount": "19834" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone15plqyst4mg0tz7mgdjglleztv54rm887mdx8n5",
-    "amount": [{ "denom": "uatone", "amount": "113457" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1a3858f250ve4t6rp9ef2svpr7sj20aax349dgr",
+    "amount": [{ "denom": "utia", "amount": "55086" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone15rgk9gkgc0rfsflyh6ygkcn8vnnhnq49arvcdg",
-    "amount": [{ "denom": "uatone", "amount": "3195699" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia17p3r5sd5a0hctry733y4f7f5etp9uxvk2g4snz",
+    "amount": [{ "denom": "utia", "amount": "77691" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone15gq8zpzagw6e5gzed8pfggsyvjdfmsss3l22dr",
-    "amount": [{ "denom": "uatone", "amount": "16127759" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia177n4ptnw3utwjlrk8n28t4zf00afm379ej5k60",
+    "amount": [{ "denom": "utia", "amount": "32541" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone15wdtw54qpamprk4g4ea0w7elmhl9mhcva90alm",
-    "amount": [{ "denom": "uatone", "amount": "167547" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia177h5g6har2ne9rhn5ekwlpgv7dtkjxp2765yfs",
+    "amount": [{ "denom": "utia", "amount": "115602" }]
   },
   {
     "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone150q6ppu366x468pkhm7zcw7jk5jegg0swa8dn2",
-    "amount": [{ "denom": "uatone", "amount": "287070" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone15n9me5yykqtedf80zsnk46lckeu07eeg33535k",
-    "amount": [{ "denom": "uatone", "amount": "360028" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone15hmqrc245kryaehxlch7scl9d9znxa58wka40n",
-    "amount": [{ "denom": "uatone", "amount": "27635554" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone157qu9jpq3pasuc9s50tpd4hwu3tm45lrhs7vx4",
-    "amount": [{ "denom": "uatone", "amount": "248605" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone14f5vpj2hdw37rng9zct7llkqax2znrhyg4vg84",
-    "amount": [{ "denom": "uatone", "amount": "106124" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1ky4l8why7jctxpwwxwy2en5txagy8j7x5kpc8n",
-    "amount": [{ "denom": "uatone", "amount": "181210" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1kal8h32wluskjd7gsqze9jlvk4zw7jp3fhq4l5",
-    "amount": [{ "denom": "uatone", "amount": "766183" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1hv4rlv94dwwsj3z7l6muye6ndmup0htacx6m3t",
-    "amount": [{ "denom": "uatone", "amount": "2023408" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1hskks7nkcq4ys9u9frmj3rpj2pfdmp20w9mcr0",
-    "amount": [{ "denom": "uatone", "amount": "975684" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1h3l6dyvhg0zsh403q6v5c9xpne8ucl8jh72672",
-    "amount": [{ "denom": "uatone", "amount": "246550" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1h4yklnnd3a9tas43y0ey8z3vg5zzwjs0g2t8ma",
-    "amount": [{ "denom": "uatone", "amount": "103140" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1h4x2tx4679zjv77uet0x6e6v33dc8l82kgtzvx",
-    "amount": [{ "denom": "uatone", "amount": "123614" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1cqrky3t78np3a60kmdpylzyv594muagf04t72v",
-    "amount": [{ "denom": "uatone", "amount": "206646" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1cyhtq6e9x7f2haf6rn5l08svmhsrcqlvlkxzf6",
-    "amount": [{ "denom": "uatone", "amount": "1232750" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1cgdty3246mz7jatqkg36h2aeqwnwf2m62hm7hv",
-    "amount": [{ "denom": "uatone", "amount": "410917" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1cthyr8req6svmza3euykd2sf5pzse6z2xk3dsz",
-    "amount": [{ "denom": "uatone", "amount": "188949" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1cdtyy29mre322xxpt2yvmz75crs3pl5tq0a30t",
-    "amount": [{ "denom": "uatone", "amount": "410902" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1c7pn0kv2x784cujvthxh5km8xxuftf85angsts",
-    "amount": [{ "denom": "uatone", "amount": "277933" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1ezr0cxsyt4qtsm2dd4ce50kdlps8w7wars8zrh",
-    "amount": [{ "denom": "uatone", "amount": "4520083" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1eewlz3pl8rhs083nqrds45kfg93sm7vu7jafhk",
-    "amount": [{ "denom": "uatone", "amount": "84753" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1eujlkkfsyjf28ey9vce3yp0s0mdd0l94z7lxln",
-    "amount": [{ "denom": "uatone", "amount": "205458" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone16yzm6qjjheafnyvlcjxnkmhj3hullgpl8u85xj",
-    "amount": [{ "denom": "uatone", "amount": "229299" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone16tfjyefrgekf0l8zzccjy2c72nh2mscjvt8pxu",
-    "amount": [{ "denom": "uatone", "amount": "229369" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone16wpn0gwepdalz0fnlq5nfy645wmwej2ctqmvyp",
-    "amount": [{ "denom": "uatone", "amount": "277940" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1602cse30jdmctgque3j8lc78w2frxzhnga4m5x",
-    "amount": [{ "denom": "uatone", "amount": "103140" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone16j9m4s9hvz2ns2z6fk2s35egca5l6rw9rjupm8",
-    "amount": [{ "denom": "uatone", "amount": "217299" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone166au0wp40n0p0yrj7vf9gce7yre3wyq0f7nmek",
-    "amount": [{ "denom": "uatone", "amount": "4428436" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1mfq9n8ghfxga047m97wuvzp5t8t7ujxrmuwwzr",
-    "amount": [{ "denom": "uatone", "amount": "187288" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1mfje8fezn9mxc7dxnxzumr9kffhxtrn9xdggft",
-    "amount": [{ "denom": "uatone", "amount": "123275" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1m20wyugxnse56q2lfmm9txyk2fx39s6fq0l38r",
-    "amount": [{ "denom": "uatone", "amount": "238365" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1mhkuzfws4xgcpkq252nv22vtdk93j3xdyjt28l",
-    "amount": [{ "denom": "uatone", "amount": "88347" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1uznr6lmlyx66er4dvw54c7e25pyr0qg3at2q67",
-    "amount": [{ "denom": "uatone", "amount": "821819" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1ukt0nsy3drwzmm08ane6zarvmjpts27p0cxdls",
-    "amount": [{ "denom": "uatone", "amount": "98349" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1ucnzn86zszgjg8umz7ujzqvrcryxu46wjm3pfh",
-    "amount": [{ "denom": "uatone", "amount": "86703" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1uey077ygnn8zz78ce9g05vkzetf32er4vg50hj",
-    "amount": [{ "denom": "uatone", "amount": "94909" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1a3858f250ve4t6rp9ef2svpr7sj20aaxwlg6yk",
-    "amount": [{ "denom": "uatone", "amount": "86733" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone17prz2ww2r89w8ds3nhjt32lf7rwu37enzh3tac",
-    "amount": [{ "denom": "uatone", "amount": "184913" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone17zhqvql2khzue6kpmgmd9gz5m02j67vr53n24t",
-    "amount": [{ "denom": "uatone", "amount": "259541" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone17yf8hsgezzhtl58gp3sqe7dcsj2wpqtzla05kh",
-    "amount": [{ "denom": "uatone", "amount": "1068383" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone17hr0kwjgklazhufht4sdpllmvm6047wd66z6s5",
-    "amount": [{ "denom": "uatone", "amount": "206694" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1lx2zuc7ls0rw0jf89y9366fg7w5l9clgu74lj3",
-    "amount": [{ "denom": "uatone", "amount": "123432" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1lx0my7kk7uy75y68r602ga62l7n8cwawxv8gts",
-    "amount": [{ "denom": "uatone", "amount": "176377" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1lft50ldy04u3szywhg38cnfpxfg7r548cx5ygl",
-    "amount": [{ "denom": "uatone", "amount": "823964" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1l2u72c838qe5yc2mn90an2cuqddehflm4hr07k",
-    "amount": [{ "denom": "uatone", "amount": "206452" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1ltdzw90gmtjslllkxz3a8mhw3lqyfuarl8z3vs",
-    "amount": [{ "denom": "uatone", "amount": "91265" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1l0tdzdyxsayestm8lu95xehgtc0s825pmq5rx5",
-    "amount": [{ "denom": "uatone", "amount": "4199255" }]
-  },
-  {
-    "@type": "/cosmos.bank.v1beta1.MsgSend",
-    "from_address": "atone1603r7hdvmntnh67rr6gnf3myg5sj0020pssh5d",
-    "to_address": "atone1lul42lw2p4mv2mlte89cf4qnfg2jfduuz9syur",
-    "amount": [{ "denom": "uatone", "amount": "528850" }]
+    "from_address": "celestia1ga4wavedkz3xrmhhtxgzxdrtysfpawnsn00lnz",
+    "to_address": "celestia1lft50ldy04u3szywhg38cnfpxfg7r5488veny2",
+    "amount": [{ "denom": "utia", "amount": "171358" }]
   }
 ]
